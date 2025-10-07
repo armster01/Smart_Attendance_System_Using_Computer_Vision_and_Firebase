@@ -84,7 +84,6 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
         ├── 3.png
         └── 4.png
 
-
 ## Dependencies
 
 - OpenCV: Computer vision library
@@ -106,6 +105,12 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/55fa5ee7-7383-40a2-a74b-ab853b44c829" />
+<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/5487680d-ac7f-4175-872f-12665c1cbce5" />
 
-<img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/cdc8e520-0c13-4156-a989-50c58e0cbee6" />
+<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b74eee9b-077b-4710-b3c0-8030dce780d6" />
+
+<img width="1920" height="1080" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/d7558e0e-d223-4c07-b744-05cb07c133c4" />
+
+<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/8794b3a2-ca09-4315-8934-87f189d5a3b8" />
+
+<img width="1920" height="1080" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/24757062-6d97-4da6-83cf-0449eb390708" />
