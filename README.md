@@ -63,9 +63,6 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
 4. Run EncodeGenerator.py to encode the new face and upload the image.
 
 ## Project Structure
-
-
-.
 ├── main.py                    # Main application script
 ├── EncodeGenerator.py         # Script to generate face encodings
 ├── AddDataToDatabase.py       # Script to add student data to Firebase
