@@ -63,6 +63,7 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
 4. Run EncodeGenerator.py to encode the new face and upload the image.
 
 ## Project Structure
+.
 ├── main.py                    # Main application script
 ├── EncodeGenerator.py         # Script to generate face encodings
 ├── AddDataToDatabase.py       # Script to add student data to Firebase
@@ -70,9 +71,9 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
 ├── serviceAccountKey.json     # Firebase service account key
 ├── EncodeFile.p               # Pickle file with face encodings
 ├── Images/                    # Folder for student images
-│   ├── 123.png
-│   ├── 456.png
-│   └── 789.png
+│   ├── 123.png.jpg
+│   ├── 456.png.jpg
+│   └── 789.png.jpg
 └── Resources/                 # Background and mode images
     ├── background.png
     └── Modes/
@@ -80,7 +81,7 @@ A real-time face recognition attendance system built with Python, OpenCV, and Fi
         ├── 2.png
         ├── 3.png
         └── 4.png
-
+        
 ## Dependencies
 
 - OpenCV: Computer vision library
